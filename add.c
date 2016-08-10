@@ -4,7 +4,7 @@ main()
 int a,b,c,d;
 
 
-printf("Enter two numbers");
+printf("Enter two numbers by shinu");
 scanf("%d %d",&a,&b);
 
 c=a+b;
